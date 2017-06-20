@@ -1,0 +1,1164 @@
+{
+  "version" : 0,
+  "root" : {
+    "id" : "(C~f72c]",
+    "fillColor" : "#fff",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "dwySE]zY",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "(C~f72c]",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "OgCVB]mp",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgba(255, 255, 255, 0)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "radiusBottomLeft" : 8,
+                "rotation" : 0,
+                "fillColorEnabled" : true,
+                "id" : "d,s,LG|F",
+                "__class" : "RectangleNode",
+                "fillColor" : "rgba(0, 153, 255, 1.00)",
+                "aspectRatioLocked" : true,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : true,
+                "borderColor" : "#222",
+                "left" : 32,
+                "locked" : false,
+                "radius" : 8,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.1493333333333333,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 8,
+                "children" : [
+                  {
+                    "radiusBottomLeft" : 0,
+                    "rotation" : 0,
+                    "fillColorEnabled" : false,
+                    "id" : "l6N(}m!z",
+                    "__class" : "ImageNode",
+                    "fillColor" : "transparent",
+                    "aspectRatioLocked" : true,
+                    "imageBackgroundSize" : "Cover",
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "clip" : false,
+                    "borderColor" : "#222",
+                    "left" : -4,
+                    "locked" : false,
+                    "radius" : 0,
+                    "boxShadows" : [
+                      {
+                        "x" : 0,
+                        "color" : "rgba(0,0,0,0.25)",
+                        "enabled" : false,
+                        "y" : 2,
+                        "__class" : "BoxShadow",
+                        "inset" : false,
+                        "blur" : 5
+                      }
+                    ],
+                    "centerAnchorX" : 0.4791666666666667,
+                    "borderPerSide" : false,
+                    "radiusBottomRight" : 0,
+                    "children" : [
+
+                    ],
+                    "image" : "IKtRsup7NO4X0JI4JPuYWE2dZxeq5VyOR17EoRJGL3oU65tCF3QfdYwu9fKDS92kE58lxggmfqLPQ6Lvw",
+                    "parentid" : "d,s,LG|F",
+                    "borderRight" : 1,
+                    "name" : null,
+                    "height" : 54,
+                    "borderWidth" : 1,
+                    "top" : null,
+                    "borderTop" : 1,
+                    "radiusTopRight" : 0,
+                    "intrinsicWidth" : 160,
+                    "borderBottom" : 1,
+                    "originalFilename" : "",
+                    "borderEnabled" : false,
+                    "constraintsLocked" : false,
+                    "right" : -2,
+                    "radiusPerCorner" : false,
+                    "centerAnchorY" : 0.5625,
+                    "visible" : true,
+                    "borderLeft" : 1,
+                    "heightFactor" : null,
+                    "intrinsicHeight" : 160,
+                    "radiusTopLeft" : 0,
+                    "targetName" : null,
+                    "bottom" : -6,
+                    "width" : 54
+                  }
+                ],
+                "parentid" : "OgCVB]mp",
+                "borderRight" : 1,
+                "name" : "albumArt",
+                "height" : 48,
+                "borderWidth" : 1,
+                "top" : 8,
+                "borderTop" : 1,
+                "radiusTopRight" : 8,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : null,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 8,
+                "targetName" : null,
+                "bottom" : 8,
+                "width" : 48
+              },
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.3626666666666667,
+                "parentid" : "OgCVB]mp",
+                "rotation" : 0,
+                "top" : null,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 5,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "COLOR:rgba(0, 0, 0, 0.5)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "SIZE:14",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgba(0, 0, 0, 0.5)",
+                          "SIZE:14"
+                        ]
+                      },
+                      "text" : "Lorde",
+                      "key" : "1sf70",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "artistName",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "{gqMRhu&",
+                "constraintsLocked" : false,
+                "left" : 96,
+                "bottom" : 12,
+                "height" : 16,
+                "opacity" : 1,
+                "width" : 39,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.6875,
+                "autoSize" : true
+              },
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.8746666666666667,
+                "parentid" : "OgCVB]mp",
+                "rotation" : 0,
+                "top" : null,
+                "right" : 32,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 4,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 4,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 4,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 4,
+                          "style" : "COLOR:rgba(0, 0, 0, 0.5)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 4,
+                          "style" : "SIZE:14",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 4,
+                          "style" : "ALIGN:right",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgba(0, 0, 0, 0.5)",
+                          "SIZE:14",
+                          "ALIGN:right"
+                        ]
+                      },
+                      "text" : "3:41",
+                      "key" : "1sf70",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "songDuration",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "{LTo(:})",
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : 12,
+                "height" : 16,
+                "opacity" : 1,
+                "width" : 30,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.6875,
+                "autoSize" : true
+              },
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.36,
+                "parentid" : "OgCVB]mp",
+                "rotation" : 0,
+                "top" : 13,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 14,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "SIZE:16",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 14,
+                          "style" : "COLOR:rgba(31, 34, 38, 1.00)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "SIZE:16",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgba(31, 34, 38, 1.00)"
+                        ]
+                      },
+                      "text" : "Perfect Places",
+                      "key" : "1sf70",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "songTitle",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "KuEivnYK",
+                "constraintsLocked" : false,
+                "left" : 96,
+                "bottom" : null,
+                "height" : 19,
+                "opacity" : 1,
+                "width" : 111,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.3515625,
+                "autoSize" : true
+              }
+            ],
+            "parentid" : "dwySE]zY",
+            "borderRight" : 1,
+            "name" : "song",
+            "height" : 64,
+            "borderWidth" : 1,
+            "top" : 123,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.232383808095952,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 375
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.7786666666666666,
+            "parentid" : "dwySE]zY",
+            "rotation" : 0,
+            "top" : 70,
+            "right" : 28,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 8,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "SIZE:28",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "ALIGN:left",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 8,
+                      "style" : "COLOR:rgba(31, 34, 38, 0.35)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                      "SIZE:28",
+                      "ALIGN:left",
+                      "COLOR:rgba(31, 34, 38, 0.35)"
+                    ]
+                  },
+                  "text" : "Playlist",
+                  "key" : "1sf70",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "etR#I:gr",
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : null,
+            "height" : 33,
+            "opacity" : 1,
+            "width" : 110,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.1296851574212894,
+            "autoSize" : true
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.2786666666666667,
+            "parentid" : "dwySE]zY",
+            "rotation" : 0,
+            "top" : 70,
+            "right" : null,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 9,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 9,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 9,
+                      "style" : "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 9,
+                      "style" : "COLOR:rgb(31, 34, 38)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 9,
+                      "style" : "SIZE:28",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 9,
+                      "style" : "ALIGN:left",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                      "COLOR:rgb(31, 34, 38)",
+                      "SIZE:28",
+                      "ALIGN:left"
+                    ]
+                  },
+                  "text" : "Crate Dig",
+                  "key" : "1sf70",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "Mk=bv7y=",
+            "constraintsLocked" : false,
+            "left" : 36,
+            "bottom" : null,
+            "height" : 33,
+            "opacity" : 1,
+            "width" : 137,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.1296851574212894,
+            "autoSize" : true
+          },
+          {
+            "radiusBottomLeft" : 20,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "DeN{?(sr",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(0, 153, 255)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 32,
+            "locked" : false,
+            "radius" : 20,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.228,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 20,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.5,
+                "parentid" : "DeN{?(sr",
+                "rotation" : 0,
+                "top" : null,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 10,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "SIZE:16",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "ALIGN:center",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 10,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "SIZE:16",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "ALIGN:center",
+                          "COLOR:rgb(255, 255, 255)"
+                        ]
+                      },
+                      "text" : "Electronic",
+                      "key" : "1sf70",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "genreLabel",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "!|L'Bn|S",
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 19,
+                "opacity" : 1,
+                "width" : 77,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.5125,
+                "autoSize" : true
+              }
+            ],
+            "parentid" : "dwySE]zY",
+            "borderRight" : 1,
+            "name" : "genre-electronic",
+            "height" : 40,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 20,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.9340329835082459,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 20,
+            "targetName" : null,
+            "bottom" : 24,
+            "width" : 107
+          },
+          {
+            "__class" : "SVGNode",
+            "originalFilename" : "add_circle_outline",
+            "locked" : false,
+            "centerAnchorX" : 0.4453333333333334,
+            "parentid" : "dwySE]zY",
+            "rotation" : 0,
+            "intrinsicWidth" : 24,
+            "top" : null,
+            "right" : null,
+            "intrinsicHeight" : 24,
+            "name" : "addGenreButton",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "aspectRatioLocked" : true,
+            "id" : "m.T-KAA~",
+            "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z\"><\/path><\/svg>",
+            "constraintsLocked" : false,
+            "left" : 155,
+            "bottom" : 32,
+            "height" : 24,
+            "opacity" : 1,
+            "width" : 24,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "fillColor" : "rgb(0, 153, 255)",
+            "visible" : true,
+            "centerAnchorY" : 0.9340329835082459
+          },
+          {
+            "radiusBottomLeft" : 16,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : ",kY#wsEx",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(255, 255, 255)",
+            "aspectRatioLocked" : true,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : true,
+            "borderColor" : "#222",
+            "left" : null,
+            "locked" : false,
+            "radius" : 16,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : true,
+                "y" : 1,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 1
+              }
+            ],
+            "centerAnchorX" : 0.4986666666666666,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 16,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "fillColorEnabled" : false,
+                "id" : "d6gCb>)t",
+                "__class" : "ImageNode",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 0.26,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 0,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5125,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "image" : "4QMfJRCp6pF7tscDreilTPKVOC4tRVkdDfuXiPpsac58JwsyJTQN4HwYOSmrQiLsU4Z4HuwboUdVpZkiTfIg",
+                "parentid" : ",kY#wsEx",
+                "borderRight" : 1,
+                "name" : "img3",
+                "height" : 164,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 305.5,
+                "borderBottom" : 1,
+                "originalFilename" : "",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : -4,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5125,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 306,
+                "radiusTopLeft" : 0,
+                "targetName" : "img3",
+                "bottom" : -4,
+                "width" : 164
+              }
+            ],
+            "parentid" : "dwySE]zY",
+            "borderRight" : 1,
+            "name" : "album3",
+            "height" : 160,
+            "borderWidth" : 1,
+            "top" : 219,
+            "borderTop" : 1,
+            "radiusTopRight" : 16,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.4482758620689655,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 16,
+            "targetName" : "album3",
+            "bottom" : null,
+            "width" : 160
+          },
+          {
+            "radiusBottomLeft" : 16,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : ";iRbky,T",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(255, 255, 255)",
+            "aspectRatioLocked" : true,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : true,
+            "borderColor" : "#222",
+            "left" : 67,
+            "locked" : false,
+            "radius" : 16,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0, 0, 0, 0.15)",
+                "enabled" : true,
+                "y" : 4,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 7
+              }
+            ],
+            "centerAnchorX" : 0.4986666666666666,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 16,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "fillColorEnabled" : false,
+                "id" : "++0|\/!C^",
+                "__class" : "ImageNode",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 0.5,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : -8,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.4958333333333333,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "image" : "yW6loPzoZQnyJGfMXrr3BerHautNzm1Aw1aX49RG3QdbPYIZQOT6dWLcbDbinQC1jdgy6SgoEO6iz0MiZw",
+                "parentid" : ";iRbky,T",
+                "borderRight" : 1,
+                "name" : "img2",
+                "height" : 254,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 385,
+                "borderBottom" : 1,
+                "originalFilename" : "",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : -6,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5041666666666667,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 385,
+                "radiusTopLeft" : 0,
+                "targetName" : "img2",
+                "bottom" : -8,
+                "width" : 254
+              }
+            ],
+            "parentid" : "dwySE]zY",
+            "borderRight" : 1,
+            "name" : "album2",
+            "height" : 240,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 16,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 68,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5382308845577212,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 16,
+            "targetName" : "album2",
+            "bottom" : 188,
+            "width" : 240
+          },
+          {
+            "radiusBottomLeft" : 16,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "eg6kRV'[",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(255, 255, 255)",
+            "aspectRatioLocked" : true,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : true,
+            "borderColor" : "#222",
+            "left" : 27,
+            "locked" : false,
+            "radius" : 16,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0, 0, 0, 0.15)",
+                "enabled" : true,
+                "y" : 8,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 15
+              }
+            ],
+            "centerAnchorX" : 0.4986666666666666,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 16,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "fillColorEnabled" : false,
+                "id" : "@'BAhszX",
+                "__class" : "ImageNode",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 0,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5046875,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "image" : "J2E7BmgYUhrcVbiuNHRa1894kn2FyPBXKTP5oC0X6fyPLaIx6pyPP7C60PiGePB4uHtuyo8oBsB8C8zoTU5g",
+                "parentid" : "eg6kRV'[",
+                "borderRight" : 1,
+                "name" : "img1",
+                "height" : 323,
+                "borderWidth" : 1,
+                "top" : null,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 440,
+                "borderBottom" : 1,
+                "originalFilename" : "",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : -3,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5046875,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 440,
+                "radiusTopLeft" : 0,
+                "targetName" : "img1",
+                "bottom" : -3,
+                "width" : 323
+              }
+            ],
+            "parentid" : "dwySE]zY",
+            "borderRight" : 1,
+            "name" : "album1",
+            "height" : 320,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 16,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 28,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.6281859070464768,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 16,
+            "targetName" : "album1",
+            "bottom" : 88,
+            "width" : 320
+          }
+        ],
+        "height" : 667,
+        "fillColor" : "rgb(245, 246, 250)",
+        "targetName" : "crateDig",
+        "name" : "crateDig"
+      }
+    ]
+  }
+}
